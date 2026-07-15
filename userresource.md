@@ -233,6 +233,15 @@ Berikut adalah ringkasan konfigurasi 4 panel utama yang berhasil dibangun:
 Berikut adalah panel yang sudah jadi
 <img width="1570" height="781" alt="image" src="https://github.com/user-attachments/assets/37ff66b0-2b1b-47dd-ab5e-7de0815c07c3" />
 
+<img width="1918" height="723" alt="image" src="https://github.com/user-attachments/assets/eb94f90e-7e77-4153-be2a-b16d1b42b8aa" />
+
+<img width="841" height="372" alt="image" src="https://github.com/user-attachments/assets/4db0842c-7262-4385-874a-a17aeb68a019" />
+
+<img width="1307" height="118" alt="image" src="https://github.com/user-attachments/assets/26d928e4-61ad-4c5b-9b58-373d0d730335" />
+
+
+
+
 
 ---
 

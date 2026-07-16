@@ -387,6 +387,8 @@ Buatlah alur kerja baru di n8n dengan susunan node berikut:
 * Klik **Execute step** untuk menguji pengiriman.
 
   
+<img width="1288" height="620" alt="image" src="https://github.com/user-attachments/assets/1d5b4d38-e8e4-4262-84e6-6e3b2ea0b0fa" />
+<img width="1557" height="997" alt="image" src="https://github.com/user-attachments/assets/38669aa4-b33a-40b3-8e4f-a808ba52801e" />
 
 ---
 
